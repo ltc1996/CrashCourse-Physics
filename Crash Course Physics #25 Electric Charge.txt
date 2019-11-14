@@ -1,0 +1,516 @@
+The shock you get from a doorknob.
+门把手给你的打击感
+
+That trick you used to do with a balloon, to make your hair stick up.
+让你头发反重力的气球
+
+Or, of course, a lightning strike.
+当然 还有被雷劈
+
+They're all governed by the same principle: static electricity.
+它们都是因为静电
+
+Static electricity occurs when an object obtains
+当物体带有一定量的净电荷时
+
+a net amount of positive or negative electric charge,
+creating an imbalance that wants to be returned to equilibrium.
+电荷为了回到平衡态而重新分布 于是产生了静电
+
+Its effects aren't always as dramatic as lightning, though.
+静电的结果不总是电闪雷鸣
+
+Let's take two pieces of tape that are both stuck to a table.
+假设桌上贴着两条胶带
+
+If you rip them both off the table and try to stick them together,
+从桌上揭下来 把它们靠在一起 应该很容易粘住 对吧
+
+that should be easy enough, right?
+But it turns out that they repel one another.
+但它们其实互相排斥
+
+But try this: Stick one on top of the other, rip the pair off the table,
+如果把一条胶带贴着另一条上面 然后再揭下
+
+and then separate the pieces.
+They're no longer repelled – now they're attracted to one another!
+现在它俩就不排斥反而相互吸引了
+
+In the first scenario, both pieces of tape stole negative charges from the table.
+第一种情况下 两条胶带同时从桌上带走了负电荷
+
+And since like-charges repel, the pieces moved away from one another.
+而"同种电荷相互排斥" 因此两条胶带就分开了
+
+In the second scenario, one piece of tape stole negative charges from the other,
+而在后一种情况下 一条胶带是从另一条身上带走的负电荷
+
+leaving the pieces with opposite overall charges, making them attract.
+使得两条胶带带上了相异的电荷 于是相互吸引
+
+Our study of electricity begins here:
+电学的学习从这里开始
+
+with basic observations about electric charges that, hundreds of years ago,
+几百年前人们对电荷的简单观察
+
+sparked the imagination and innovation that changed our world forever.
+启发了后人的创新 永远改变了这个世界
+
+0,,{{\p1\1img(E:/zfb.png)\pos(1066,672)}m 0 0 l 0 325 l 324 325 l 324 0
+To understand electricity, you should start with an atom.
+为了理解什么是"电" 我们应该从原子开始研究
+
+Atoms contain charged particles – positive protons and negative electrons.
+原子包含两种带电粒子 带正电的质子和带负电的电子
+
+And generally there's an equal number of each,
+通常两者的数量相等 净电荷为0
+
+meaning the net electric charge of the atom is 0.
+It's electrically neutral.
+呈电中性
+
+In solid materials, protons stay fixed,
+在固体中 质子固定不动 而电子则可以随意运动
+
+but some electrons are free to move around.
+These moving electrons are called free electrons.
+这些运动的电子称为自由电子
+
+They reside in an atom's outer shell as valence electrons
+处在原子的最外层的自由电子充当价电子
+
+and are easily plucked off and carried around,
+在外力的作用下
+
+when acted upon by an outside force.
+很容易失去电子
+
+How easy it is for electrons to move around depends on the material.
+是否容易失去电子取决于材料
+
+And we describe the materials in the same manner we do for heat transfer,
+类似导热本领 我们用导体和绝缘体来描述它们
+
+with conductors and insulators.
+Materials that are conductors, like copper,
+像铜这样的导体材料 电子很容易从固体中通过
+
+let free electrons move freely throughout the solid,
+while insulators, like wood, hold on to them tightly, limiting their flow.
+而木头这样的绝缘体 紧紧地束缚着电荷 电流无法形成
+
+So we've got insulators and conductors with free electrons moving around in them.
+我们讲了导体和绝缘体控制电子移动的本领
+
+But what causes these charged particles to move in the first place?
+但电子的运动最先是由什么引起的呢
+
+The answer is an imbalance of electrical charge,
+答案是电荷的不平衡
+
+when some part of an object has a different number
+即某种电荷的数量
+
+of free electrons than another part.
+与另一种不等
+
+When we talk about an object having an overall negative charge,
+我们说一个物体带负电 说的是它负电荷更多
+
+we mean that it has too many electrons.
+And when we talk about an object having an overall positive charge,
+带正电的情况同理
+
+we mean it's missing free electrons.
+This imbalance can be created and resolved in lots of different ways.
+使电荷平衡和不平衡的方法有很多
+
+Say you have a glass rod that's electrically neutral, and you rub it with a cloth.
+用丝绸摩擦一个电中性的玻璃棒
+
+That physical interaction causes electrons to hop onto the cloth,
+这种物理作用使得电子跃至丝绸 玻璃棒就留下了正电荷
+
+leaving the rod with an overall positive charge.
+This is called charging by friction.
+这叫摩擦起电
+
+Both the cloth and rod began with a neutral charge,
+让原本都是电中性的物体带上相异的电荷
+
+but after friction, the rod has a net positive charge.
+But whether the rod ends up with a net positive or negative charge
+但玻璃棒带哪种电荷取决于用什么材料摩擦
+
+depends on the materials that you use.
+The ancient Greeks actually rubbed fur against amber,
+古希腊人发现 用羊毛摩擦过的琥珀
+
+and discovered that the amber would then attract hair and feathers.
+可以吸引头发和羽毛
+
+Today, we understand that the fur stole electrons during the process,
+今天 我们知道 羊毛在摩擦的过程中夺走了电子
+
+giving the amber an overall positive charge, just like the glass rod.
+给琥珀留下了正电荷 就像刚才的玻璃棒一样
+
+Now, it's important to note that
+需要声明的是 整个过程没有产生额外的电荷
+
+no new charges were created during this process.
+The overall charge between the two objects is still zero.
+两个物体带的总电荷为0
+
+This is known as the law of conservation of electric charge.
+这就是电荷守恒定律
+
+It says that you can never create a net electric charge.
+你无法创造出净电荷
+
+Instead, charge can only move from one place to another.
+电荷只能从一处转移到另一处
+
+Now, if we bring our positively charged glass rod
+如果把带正电的玻璃棒与电中性的玻璃棒接触
+
+in contact with another, neutral rod,
+some of the negative charge – that is, some electrons –
+一些带负电的电子
+
+will jump from the neutral rod to the positive one,
+会流向带正电的玻璃棒
+
+until both objects have the same distribution of charge.
+直到两者的电荷分布相同
+
+So now we have two rods that are both slightly positive.
+得到了两根带少量正电荷的玻璃棒
+
+This is called charging by contact.
+这叫接触起电
+
+When the two objects touched, charges moved between them.
+两个物体接触时 电荷相互流动
+
+OK, so, charges can move when different materials touch each other,
+两种材料接触时 电荷会流动
+
+either through friction or simple contact.
+无论是摩擦起电还是接触起电
+
+But materials don't actually have to touch
+但为了起电 不一定非要让两个物体真的接在一起
+
+in order for their electrons to get all rearranged.
+Say you bring a positively charged rod close to a metal conductive rod.
+假设你拿着带正电的玻璃棒靠近一根金属棒
+
+Then, the electrons in part of the metal rod
+金属棒中的电子会流向靠近玻璃棒的一端
+
+will be drawn towards the positive rod.
+Now, the side with more electrons has a negative charge,
+负电荷较多的一端呈负电
+
+leaving the other side of the rod with fewer electrons and a positive charge.
+另一端负电荷相比正电荷要少得多 于是显正电
+
+You know what we've done here?
+你知道我们做了啥吗
+
+We've polarized the metal rod.
+我们把金属棒极化了
+
+We've redistributed the charge in order to create an imbalance of charge
+我们修改了电中性的物体的电荷分布 创造出电荷不平衡的条件
+
+within an object an object that's still electrically neutral.
+Now, imagine that we slice the metal rod right down the center!
+假设我们在金属棒正中切开
+
+It still hasn't touched the positive rod,
+我们没有接触正极这一端
+
+but since we split it while an imbalance was present,
+而且是在电荷不平衡时切开的
+
+we're left with one positive side and one negative side.
+得到的应该是一个正极和一个负极
+
+This process is known as charging by induction
+这种称为感应起电 在不接触的情况下得到净电荷
+
+creating a net charge without contacting another object.
+Now, if a charged object is connected to
+如果一个显电性的物体
+
+a much larger neutral conducting object,
+与一个巨大的电中性物体接在一起
+
+then the net charge gets redistributed
+净电荷被重新分配 于是微小的带电物体失去了大部分电荷
+
+so that the smaller object loses most of its net charge.
+How large an object are we talking about, exactly?
+这个物体能有多大呢
+
+Well, how about Earth?
+地球够大了吧
+
+The Earth's surface is a fairly good conductor in most places,
+大部分的地表是良导体
+
+and, for our purposes, it can be considered neutral.
+方便起见 可以看成是电中性
+
+So, connecting a charged object to the ground
+将一个带点物体接地
+
+creates a way for the charge to leak into the Earth,
+创造一个电荷漏向地球的通道
+
+rendering the object electrically neutral.
+使物体成为电中性
+
+This is known as grounding.
+这种做法称为接地
+
+So, let's say we repeat the previous experiment,
+but we bring a negatively charged rod close to our neutral one.
+假设我们换用负电荷接触 重复刚才的实验
+
+The neutral rod becomes polarized,
+不带电的棒被极化
+
+with a net positive charge close to the charged rod
+and a negative charge on the opposite side.
+靠近玻璃棒的一段带正电 而另一端带负电
+
+But if we ground the metal rod,
+the negative charges repelled by the charged rod
+now have a place to go: the Earth!
+但如果把它接地
+
+被正电荷排斥的负电荷有地方去了 那就是地球
+
+The negative charges scurry away,
+leaving the metal rod with an overall positive charge.
+负电荷很快地流光了 留下全是正电荷的金属棒
+
+Now, if we sever the connection to the ground,
+our rod remains positively charged!
+然后再断开与地面的接触
+
+就得到了一根带正电的棒了
+
+This process required no contact between the rods,
+这个过程两根棒没有彼此接触
+
+only a connection to the ground.
+只与地面接触了一次
+
+OK, so we've talked about how opposite charges attract
+and like charges repel,
+我们讲过异种电荷相互吸引
+
+同种电荷相互排斥
+
+but how do we quantify those interactions in terms of equations and units?
+但我们怎么用式子和单位来量化这种相互作用呢
+
+Well, we'll want to find the force on charged particles in Newtons.
+我们相用N来表示电荷的相互作用力
+
+But to calculate the number of Newtons,
+we'll first need to measure the charge,
+denoted by "q", in units called Coulombs.
+计算有多少N之前
+
+我们得先用库伦(C)
+
+来表示电荷q
+
+Since objects can be positively or negatively charged,
+"q" can have both positive and negative values.
+因为物体既可以带正电也可以带负电
+
+因此q既可以是正数也可以是复数
+
+For example, one electron has a charge of
+negative 1.6 times 10 to the negative 19th Coulombs.
+例如 单个电子包含的电荷量为1.6×10   C
+
+{\fs30\pos(968,634)}-19
+
+That means there are 6.24 times 10 to the 18th electrons for every negative Coulomb!
+也就是说1C包含了6.24×10   个电子
+
+{\fs30\pos(822,588)}-19
+
+This value – the charge of a single electron in Coulombs –
+is known as the elementary charge, and it's denoted with a lowercase "e".
+单个电子的电荷量
+
+称为元电荷 以C作单位时用e表示
+
+We'll use this notation a lot when talking about protons and electrons,
+since protons have a charge of positive e and electrons of negative e.
+我们之后用经常+e和-e分别表示质子和电子的电荷量
+
+Now that we have a way to measure the charge,
+we can calculate the force between particles.
+有了电荷的单位以后
+
+我们就能计算作用力了
+
+And the equation we use is very similar to the one we use with gravitation.
+与引力的表达式非常相似
+
+It's just that, instead of using kilograms to find Newtons,
+here we're using Coulombs to find Newtons.
+但我们不是用距离来求力
+
+而是用电荷
+
+Our equation here states that the force between
+two charged particles is equal to the product
+表示两个电荷作用力的表达式中
+
+of the two charges, divided by the distance between them squared.
+力正比于两个电荷量乘积与距离平方的比值
+
+And the distance is squared because, just like gravitation,
+when the distance between objects doubles,
+the force between them reduces to a quarter of the original value.
+和引力一样 距离是二次方
+
+所以当距离翻倍时
+
+作用力减小到原来的四分之一
+
+And, ALSO as with gravitation, this force has its own proportionality constant.
+与重力一样 这个力也有自己的比例系数
+
+It's labeled lower-case k,
+and its value depends on the medium that surrounds the charges.
+用k表示 大小取决于包围电荷的是何种媒介
+
+The vast majority of the time,
+多数情况下
+
+the medium you'll be working with will just be the air, or possibly a vacuum.
+采用的媒介是空气 或者是真空
+
+And in both cases the constant is 9 times 10 to the ninth Coulombs.
+无论哪种情况 k都是9×10 N·m /C
+
+{\fs30\pos(882,634)}9      2   2
+
+So when you multiply the rest of the expression by k,
+that gives the result in terms of Newtons.
+之前的表达式乘上k之后
+
+得到的结果以N为单位
+
+This whole expression is known as Coulomb's Law.
+完整的式子就是库仑定律
+
+And k is often known as the Coulomb's Law constant.
+k也称为库伦常数
+
+Now, gravitation and electrostatic forces work in totally different ways,
+of course, so we have to express them differently, too.
+引力与库仑力的性质截然不同 所以表达式也不一样
+
+The force of gravity, after all, is always attractive.
+引力的效果总是吸引
+
+But the electrostatic forces can be either attractive or repulsive,
+depending on the signs of the charges.
+但库仑力是吸引还是排斥
+
+取决于电荷的极性
+
+So the product of the two charges can be negative or positive,
+with the resulting sign of F being plus or minus,
+corresponding to either attraction or repulsion.
+因此乘积既可能是正数也可能是负数
+
+这样力的符号既可能为正也可能为负
+
+分别表示了吸引(-)和排斥(+)
+
+Now, let's put Coulomb's Law to the test!
+现在来运用库仑定律吧
+
+Let's say there are two electrons that are 1 nanometer apart.
+假设有两个相距1nm的电子
+
+That's 1 times 10 to the -9 meters.
+也就是1×10 m
+
+{\fs30\pos(740,636)}-9
+
+You can calculate the force between them by multiplying their charges,
+你可以把电荷量带入到公式中
+
+which are both -1.6 times 10 to the -19 Coulombs
+两个q都是-1.6×10   C
+
+{\fs30\pos(800,636)}-19
+
+divided by the distance between them squared.
+再除以距离的平方
+
+You then multiply that by k,
+and the resulting force is positive 2.3 times 10 to the -10 Newtons.
+再乘上k 得到库仑力为+2.3×10   N
+
+{\fs30\pos(908,636)}-10
+
+Now, notice that the answer is positive
+that means the electrons repel one another.
+注意到结果为正 也就是两个电荷相互排斥
+
+If we used a proton and an electron the same distance apart,
+如果是一个质子和一个电子的话
+
+we'd get -2.3 times 10 to the -10 Newtons, meaning they'd attract one another.
+得到的结果大小相同 但是为负 表示吸引力
+
+And just like other forces, vector addition also applies here, too.
+这个力也遵循矢量的加法
+
+This means we can solve for the net force on a charge by using Coulomb's law
+on each pair of charges in any situation.
+因此无论有多少电荷 都可以用库仑定律求出合力方向
+
+From Coulomb's law, we can calculate the magnitude of the force
+and find the direction based on the sign of the result.
+库仑定律求出力的大小 根据正负号判断力的方向
+
+So, from a simple trick with tape,
+and the help of a couple of animated rods,
+we've already uncovered the basics of electrostatic forces!
+从胶带的例子
+
+以及玻璃棒和金属棒摩擦的动画
+
+我们已经初步见识了静电力
+
+Next time, we'll learn about electric fields
+and how to visualize their effect on neighboring objects.
+下次课 我们会讲电场以及如何表示场中的物体
+
+Today, we learned about electrostatic forces,
+and how electrical charge can be altered and rearranged.
+这节课 我们讲了静电力与电荷分配
+
+We also discussed Coulomb's law
+and how the force between charged particles is calculated using vectors.
+还讨论了库仑力及矢量计算
+

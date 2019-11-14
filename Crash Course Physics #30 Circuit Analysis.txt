@@ -1,0 +1,584 @@
+When you study physics, you can start to see it everywhere – even here.
+随处都可以学物理 即使是过节
+
+As an engineer who studied physics,
+作为学过物理的工程师
+
+I have to say one the most interesting parts of the holidays is the lights.
+我认为过节最有意思的部分之一是看灯
+
+Just think of all of the crazy displays that you see,
+想想你所有去过的惊艳展会
+
+and what it would take to figure out the current
+怎么样才能算出
+
+required to power all of the tiny light bulbs
+that make them glow.
+点亮那些灯泡一共要多少能量呢
+
+So many resistors.
+那么多的电阻
+
+Now, I'm not going to ask you to diagram the holiday lights on your neighbor's house.
+我不是让你去研究邻居家的灯
+
+But, one of the best ways to understand how electricity works in a system like that,
+但是理解电流在系统中运作的最好方法
+
+is through circuit analysis:
+就是通过分析电路
+
+the process of breaking down a circuit into its key components,
+也就是拆分出电路关键成分
+
+and studying each one, to see what it can tell you about the others.
+然后研究它们作用关系的过程
+
+So far, you've learned about the key components of every electrical circuit
+目前 你已经学了每个电路都有的成分
+
+namely voltage, resistance, and current.
+也就是电压 电阻和电流
+
+These properties are all related to one another through Ohm's law.
+三者的关系由欧姆定律确定
+
+This means that if you know two out of the three variables, you can solve for the remaining one.
+也就是说 知道其中两个的值 就可以解出第三个的值
+
+For example, you can take a bunch of resistors in a circuit,
+例如 你可以给电路中接上一堆电阻
+
+find their equivalent resistance, and then use the voltage to figure out what the current is.
+求出等效电阻 然后利用电压求出电流值
+
+And when you know the current, you can get even more important information,
+知道电流以后 你就能得到很多的信息
+
+like the voltage across a particular component, or the current through a specific wire.
+比如通过某一部分的电压 或通过某一处的电流
+
+So if nothing else, today's lesson in circuit analysis
+没什么其他问题的话 今天的电路分析课
+
+will help you appreciate holiday lights on a whole new level.
+能够让你的赏灯能力更上一层楼
+
+Let's keep things simple.
+让问题简单些
+
+There's an enormous number of circuit-building methods that I'd love to go over with you,
+我想和你分享搭建电路的方法数不胜数
+
+but we're going to stick to the basics, which you'll use in every circuit problem you'll encounter.
+但我们用最简单也最常见的来举例
+
+These are DC circuits, with resistors in series and parallel formations.
+这是两个电阻串联的直流电路
+
+You'll recall that series formations occur when resistors are connected along the same path,
+头尾相接的电阻 让你想起来串联电路的电流关系
+
+so they have the same current passing through each one.
+所以通过每个电阻的电流相等
+
+And parallel connections are when resistors are placed on wires that branch out from a single point,
+并联电路的电流关系 适用于来自同一节点的分支
+
+all having the same voltage drop across them.
+加给每个电阻的电压相等
+
+And to find the equivalent resistance of resistors in series,
+为了求出串联电阻的等效电阻
+
+you just add their resistances together.
+只需要将所以电阻值相加即可
+
+For resistors in parallel, meanwhile, you use a different method
+对于并联的电阻 方法就不同了
+
+one that gives you a resistor with an equivalent resistance
+它的等效电阻
+
+that's smaller than any of the individual resistors in the branches.
+小于所有并联电阻的最小值
+
+Now, let's put these equations to work!
+现在 我们来用这些公式解决问题
+
+Here's an example of a circuit with resistors in both series and parallel formations.
+这是串并联都有的例子
+
+Say you have a 20-volt battery, immediately followed by a resistor of 10 Ohms.
+假设电源电压为20V  最靠近它的是一个20Ω的电阻
+
+Following that, there's a parallel formation of more resistors:
+然后是两分支的并联电路
+
+One branch consists of two resistors in series, one of 15 Ohms and one of 2 Ohms.
+其中一支由15Ω和2Ω的两个电阻串联而成
+
+The other branch has a 6 Ohm resistor,
+另一支 先是一个6Ω的电阻
+
+and then another parallel formation of resistors, 3 and 5 Ohms each.
+然后是3Ω和5Ω的两个电阻并联
+
+Our goal is to simplify everything down to one resistor,
+我们的目标是 将所有电阻简化成一个电阻
+
+which will have the equivalent resistance of all of these resistors combined.
+它的阻值等于所有电阻效果之合
+
+With that equivalent resistance,
+有了这个等效电阻
+
+you can then know what the resulting current is in the circuit.
+我们就能知道电路中的电流情况了
+
+Then, using Ohm's Law, you can calculate the voltage across,
+然后  通过欧姆定律 就能求出电压值
+
+and current through, each resistor.
+然后求出通过每个电阻的电流
+
+OK, let's do the easiest steps first.
+我们从最简单的求起
+
+Start by finding the resistors in a series.
+先找出串联的电阻
+
+You can collapse these down into a single resistor
+你可以通过直接求和
+
+by simply adding their resistances together.
+求出串联的等效电阻
+
+In this case, you add the 15 and 2 Ohm resistors
+在这题里 就是15Ω和2Ω串联
+
+into a single, 17 Ohm equivalent resistor.
+相加得到17Ω的等效电阻
+
+Now that branch contains a single resistor.
+于是 这个分支只含一个电阻了
+
+Let's look at the other branch.
+然后研究另一支
+
+This one has a single resistor and then two in parallel.
+它有一个单独的电阻和两个并联的电阻
+
+So let's start by turning the parallel connection of the 3 Ohm
+and 5 Ohm resistors into one equivalent resistor.
+我们先求3Ω与5Ω并联的等效电阻
+
+Using our equation for resistors in parallel,
+利用并联电路电阻关系
+
+you find that they simplify to a single resistor of about 1.88 Ohms.
+我们可以求得这俩的等效电阻为1.88Ω
+
+Then, you can add the newly formed resistor to the 6 Ohm one,
+然后加上与它串联的6Ω电阻
+
+and the branch simplifies even more – to a single resistor of 7.88 Ohms.
+于是这一支的等效电阻为7.88Ω
+
+All right, you're almost there!
+好啦 就快求完了
+
+Now, let's combine the 17 Ohm and 7.88 Ohm resistors,
+现在是17Ω与7.88Ω并联
+
+which are in parallel, into one resistor and its resistance turns out to be 5.38 Ohms.
+根据并联的关系 求得等效电阻为5.38Ω
+
+And with that, you're left with only two resistors in series,
+于是 电路中只剩两个串联的电阻了
+
+which you can combine to form a single resistor
+with the equivalent resistance of 15.38 Ohms.
+直接求和得到最终的等效电阻为15.38Ω
+
+Now, there's only one resistor left,
+现在 电路中只剩一个电阻了
+
+which means you can easily find the current drawn from the battery!
+也就是说 你可以轻松求出电池流出的电流了
+
+Using Ohm's Law, you can find that the current through a circuit with a 20 volt battery
+根据欧姆定律 你可以求出20V的电池
+
+and an equivalent resistance of 15.38 Ohms is about 1.30 Amperes.
+通过15.38Ω电阻的电流为1.30A
+
+Just pause for a moment and appreciate what you've done so far.
+先停一下 看看你做了什么
+
+You were able to take what you knew about the power source
+你已知了电压值
+
+and the number and configuration of the resistors
+以及电阻的数量和大小
+
+to figure out the current that runs through the circuit.
+就求出了电路中的电流大小
+
+And it wasn't that hard, was it?
+也不难 对吧
+
+And now that you've determined the current, you can learn so much more!
+现在你求出了电流值 你就什么都知道了
+
+With the total current in the system,
+电路的总电流已知
+
+you can expand the equivalent circuit back to its original form.
+你可以把等效电阻拆成原先的形式
+
+And while you're doing that, you can determine both the current through,
+在你复原的同时 你需要确定每个分支电流的流向
+
+and the voltage drop across, every single resistor.
+以及电压在每个电阻上的压降
+
+Just go back one step to the ten Ohm resistor, and the 5.38 Ohm resistor.
+先拆成10Ω与5.38Ω的串联
+
+Nothing has changed about the current through the circuit.
+电流的流向并没有变化
+
+And the two resistors are in series,
+由于两个电阻是串联的
+
+so the current flowing through them is the same.
+它俩的电流是相等的
+
+But the voltage drop across each resistor is different.
+但每个电阻的压降不等
+
+You can calculate the voltage drop across each resistor
+by using Ohm's Law, V equals I times R.
+由欧姆定律V=IR 可以求出压降
+
+You know the current, I, and you know each resistance, R,
+已知了电流I 和电阻R
+
+so you simply use them to find the distinct voltage drop, V, across each resistor.
+于是很容易就算出了两个电阻的压降V 
+
+The voltage drop across the 10 Ohm resistor turns out to be 13 Volts,
+10Ω的电阻压降为13V
+
+which leaves the remaining voltage drop across the rest of the circuit to be 7 Volts.
+余下7V的全部通过剩下的电路
+
+And you don't have to do anything with the 10 Ohm resistor,
+然后保留10Ω的电阻不动
+
+since that's not a combination of resistors.
+因为它本身就是单独的电阻
+
+So the current through and voltage across that circuit element doesn't change.
+因此通过它的电流与电压也没有变
+
+In order to complete the rest of the circuit,
+为了复原剩下的电路
+
+let's expand the 5.38 Ohm resistor back out again,
+我们来拆5.38Ω的电阻
+
+to those two resistors in parallel.
+拆回两个电阻的并联
+
+Now, you know that any two resistors in parallel have the same voltage drop,
+你知道并联电路的电压相等
+
+so both the 17 Ohm resistor and the 7.88 Ohm resistor have a voltage drop of 7 Volts,
+因此17Ω与 7.88Ω的电阻 同时享受7V的电压
+
+just when they were collapsed into one.
+如同合体时候一样
+
+But the current through each branch is not the same.
+但是电流的情况就不同了
+
+Since you know the resistance of, and voltage across, each resistor,
+你知道了每个电阻的阻值与电压
+
+you just use Ohm's Law again to calculate the current through each wire.
+由欧姆定律可以求得每个支路的电流值
+
+The 17 Ohm resistor, with a voltage drop of 7 Volts,
+17Ω的电阻 电压为7V
+
+will have a current of 0.41 Amperes.
+它的电流为0.41A
+
+And the 7.88 Ohm resistor, with the same voltage drop of 7 Volts,
+7.88Ω的电阻 电压也是7V
+
+will have a current of 0.89 Amperes.
+它的电流就是0.89A
+
+And look at this: If you add these two currents together,
+回头看下 如果将两支路的电流相加
+
+they equal the 1.3 amperes.
+得到1.3A
+
+That's the same value for the current
+恰好等与分支路前
+
+that enters the junction where the wires split.
+干路的总电流
+
+This must be true, to satisfy conservation of charge,
+这是必然的 因为电荷守恒
+
+because remember: What goes in must come out!
+因为 有进就有出
+
+Now, let's expand the resistor on the right into its two components,
+然后继续将右侧支路的两个电阻拆开
+
+a 6 Ohm and a 1.88 Ohm resistor.
+一个6Ω 一个1.88Ω
+
+The current through these two is still 0.89 Amperes,
+通过它的电流仍然是0.89A
+
+but the voltage drop of 7 Volts is now split across the two resistors.
+但7V的压降要分给两个电阻了
+
+All you have to do is implement Ohm's law yet again,
+你要做的就是继续使用欧姆定律
+
+multiplying current and resistance in order to find the voltage drop.
+电流乘上电阻得到电压
+
+So 0.89 Amperes times 6 Ohms equals a 5.33 Volt drop.
+0.89A×6Ω=5.33V
+
+And 0.89 Amperes times 1.88 Ohms equals the remaining 1.67 Volt drop.
+0.89A×1.88Ω=1.67V
+
+Now, It's good to check that you're on the right track
+现在来验算一下
+
+by looking at the relationships of all of these values.
+你求出的电学量是否正确
+
+Keep in mind that, for resistors in series,
+别忘了 串联电路中
+
+the larger the resistance is, the larger the voltage drop that's required.
+电阻值越大 分到的电压就越大
+
+Think of a big light bulb and a tiny light bulb on the same wire of holiday lights,
+想想电线上的一大一小两个彩灯
+
+using the same current.
+它们的电流相等
+
+The little light bulb doesn't draw nearly as much power,
+小灯泡的抽取电能的本领不如大灯泡
+
+so it uses less voltage for the same amount of current passing through it.
+因此 电流相等时 电压较低
+
+OK, back to work!
+好的 回到例题上
+
+Our 1.88 Ohm resistor is a combination
+1.88Ω的电阻是等效电阻
+
+of a 3 Ohm and 5 Ohm pair of resistors in parallel.
+由3Ω与5Ω并联而成
+
+So the voltage drop across each resistor is still 1.67 Volts,
+因此两端的压降仍是1.67V
+
+but the current passing through each will be different.
+而通过的电流就不一样了
+
+Using Ohm's Law, you can divide the voltage across each resistor by its respective resistance,
+根据欧姆定律 你可以用各自的电阻值除电压
+
+giving you the current through each branch.
+就得到了两支路的电流值
+
+1.67 volts divided by 3 Ohms
+1.67V÷3Ω
+
+gives you a current of 0.56 Amperes through the 3 Ohm resistor.
+得到3Ω的电阻通过0.56A的电流
+
+And 1.67 volts divided by 5 Ohms gives you a current of 0.33 Amperes.
+1.67V÷5Ω=0.33A的电流
+
+And since 0.56 plus 0.33 Amperes
+而0.56A+0.33A=0.89A
+
+equals the 0.89 Amperes that enters the wire at the split,
+就是干路的电流
+
+you know you're on the right track.
+你就知道没有算错
+
+One last step!
+最后一步
+
+The 17 Ohm resistor is a series combination of a 15 Ohm and 2 Ohm resistor.
+17Ω的电阻由15Ω与2Ω串联而成
+
+Here, the current through them – 0.41 Amperes – stays the same,
+而通过它们的电流仍是0.41A
+
+while the voltage drop across each one can be found using Ohm's Law.
+再次使用欧姆定律求出各自的压降
+
+0.41 Amperes times 15 Ohms equals 6.17 volts across the 15 Ohm resistor.
+0.41A×15Ω=6.17V 就是通过15Ω的电压
+
+And 0.41 Amperes times 2 Ohms
+equals the remaining 0.82 Volts across the 2 Ohm resistor.
+0.41A×2Ω =0.82V 就是通过2Ω的电压
+
+To check your work, you can go back and see that the two voltage drops
+至于验算 你只需要把两个电压值相加
+
+equal the total voltage drop across each branch after the 10 Ohm resistor.
+与10Ω分压后的电压比较即可
+
+And you've done it! Congrats!
+然后就解完了 撒花
+
+You've taken a whole circuit, simplified it down to the bare minimum,
+你把整个电路简化成最简形式
+
+then expanded it again,
+然后复原
+
+discovering the current and voltage values for every single resistor.
+求出每个电阻的电流与电压
+
+But, even though we all love math, what if that's not enough for you?
+虽然我们都喜欢数学 但这还不过瘾怎么办
+
+What if you physically constructed this circuit yourself,
+如果你真的搭出了这个电路
+
+and you wanted to measure the values so that you knew your math checked out?
+你想看看理论计算是否真的正确
+
+To measure voltage, you'd just need a tool known as a voltmeter.
+为了测出电压 你只需要一个叫电压表的工具
+
+Pretty creative, I know.
+就是这么简单粗暴
+
+Now, you want a way to measure voltage without altering the actual circuit.
+现在 你想在不改变电路的情况下测出电压
+
+No solution is perfect, but you can get a pretty accurate reading
+这种办法不是完美的 但读数也足够精确了
+
+by attaching the voltmeter on either side of the device that you want to measure.
+就是把电压表接到要测器件的两侧
+
+And you do it that way, because you know that
+你这么做的理由是 
+
+any components connected in parallel will have the same voltage.
+并联电路的电压值相等
+
+But even if you measure the voltage,
+但即使你测出了电压值
+
+you still want to avoid changing the resulting circuit.
+你仍然不想修改电路
+
+So, what you do is give the voltmeter a resistance that's so high 
+因此 你需要令电压表的阻值足够高
+
+that it's considered infinite, relative to the rest of the circuit.
+相对于其他部分是无穷大
+
+With an "infinite" resistance, the same voltage is read across
+both the voltmeter and the device you're measuring,
+阻值无穷大之后 电压的度数就与器件的电压相同
+
+and a tiny amount of current ends up running through the voltmeter.
+通过电压表的电流值就很小了
+
+OK, you're a stickler, and even though you've confirmed your voltage,
+于是你刨根问底 即使你确定了电压的正确性
+
+you want to do the same thing with the current.
+你还想验证电流值
+
+This time, you'll use the fact that
+devices connected in series share the same current.
+这次你的理由是串联电路的电流相等
+
+So, you need a device that can measure current, in series with another component,
+因此 你需要可以串联进电路的器件
+
+without changing the current.
+同时不能修改电路
+
+This is known as an ammeter,
+这东西叫电流表
+
+and it measures the current in Amperes by connecting in series with the circuit.
+串联到要测电流的支路中
+
+It doesn't affect the circuit, because the device has a near-zero resistance.
+它也没有改变电路 因为它的电阻值几乎为0
+
+But here's a pro tip: When you use these devices in the lab,
+但我有言在先 当你在做实验时
+
+be very careful not to mix up the methods of connection!
+千万注意两种仪表接入电路的方式
+
+Attaching the ammeter, a device with near-zero resistance, in parallel with another resistor,
+将阻值约为0的电流表并联进电路
+
+will cause nearly all the current to run through the ammeter, possibly damaging it.
+会使得电流几乎全部流入其中 造成损坏
+
+And if a voltmeter is attached in series, you're not going to see any current flowing,
+而把电压表串联进电路时 不会有任何度数
+
+because the resistance is so large!
+因为它的电阻值太大了
+
+But used correctly, these devices can not only allow you to confirm your maths,
+使用正确的话 不仅可以用来验证理论计算
+
+they can also give you a hands-on way to measure the basic principles of Ohm's Law in action.
+还能自己动手验证欧姆定律
+
+And they just might help you raise your holiday-lighting game to a whole new level.
+还能让你的赏灯过程锦上添花
+
+Today, we saw how circuit analysis can be used
+这次课 我们学习了电路分析
+
+on any series and parallel configuration of resistors in a DC circuit.
+针对直流电路的串并联电阻
+
+We used Ohm's Law to go from an equivalent circuit to solving
+由欧姆定律求出电路的等效电阻
+
+for every current value and voltage drop in the system.
+从而求出系统各处的电流与电压值
+
+Finally, we saw how to measure voltage and current in a real circuit
+using voltmeters and ammeters.
+最后 我们还讲了如何使用电流表与电压表测量实际电路的电学量
+
