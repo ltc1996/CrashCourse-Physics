@@ -1,0 +1,429 @@
+So it's Friday, April 21, 1820.
+今天是1820年4月21日 星期五
+
+A physics professor in Denmark named Hans Christian Oersted
+一位叫奥斯特的丹麦物理学教授
+
+is in the middle of a lecture,
+and he's using a compass and an electric wire for a demonstration.
+正在使用指南针和电线进行演示实验
+
+He turns on the current that runs through the wire,
+and he notices that the needle in the compass starts to move.
+他让电流通过导线 然后注意到罗盘上的指针开始移动
+
+And when he turns the current off, the needle moves back to where it was.
+当他关掉电流时 针头回到原来的位置
+
+Then, he runs the current through the wire in the opposite direction,
+and sees the needle move the other way.
+然后他让电流反向通过导线 指针的转动方向也反了
+
+What Oersted demonstrated that day was a fundamental discovery:
+the connection between electricity and magnetism.
+奥斯特实验所展示的是一个基础性的发现 电力和磁力之间的联系
+
+And it changed the field of physics forever.
+它永远改变了物理学的研究领域
+
+The relationship between electricity and magnetism
+not only explains what Oersted and his students witnessed in 1820.
+电与磁之间的相互作用 不仅解释了奥斯特和他的学生当年目睹的现象
+
+It also makes possible much of the technology that's used today
+from hydroelectric dams to your smartphone.
+这也使得今天使用的许多技术 从水电大坝到智能手机 成为可能
+
+It even explains why Earth's magnetic field is essentially keeping you
+from being cooked alive right now.
+它甚至还能解释为什么地球的磁场让你没被太阳煮熟
+
+And all you really need to understand the basics of
+magnetism and electricity is this. [waves hand]
+而你只需要右手就能了解磁力和电力之间的相互作用
+
+You're probably familiar with the basics of magnets already:
+你可能对磁铁有基本的了解
+
+They have a north pole and south pole.
+它们有一个北极和一个南极
+
+Two of the same pole will repel each other, while opposites attract.
+同名磁极相互排斥 异名磁极相互吸引
+
+Only certain materials, especially those that contain iron, can be magnets.
+但只有某些特殊的 特别是含有铁的材料可以制成磁铁
+
+It depends on their molecular properties.
+这与他们的分子性质有关
+
+And other metals, including cobalt, nickel, and iron,
+are attracted to magnets, even though they aren't magnets themselves.
+而其他本身没有磁性的金属 如钴、镍和纯铁会被吸引到磁铁上
+
+Like the metal in your refrigerator door.
+就像冰箱门上的门吸一样
+
+And there's a magnetic field around Earth,
+which is why you can use a compass to figure out which way is north.
+地球周围也有一个磁场 因此你可以使用指南针来确定哪条路是往北走的
+
+The magnet in the compass aligns itself with Earth's magnetic field.
+指南针中的磁铁与地球的磁场一致
+
+Just as we use electric field lines to represent the electric field created by charges,
+we can draw magnetic field lines to represent the magnetic field created by magnets.
+类似电场 我们也可以画出磁场线来表示由磁体产生的磁场
+
+And as with electric fields, the more crowded the lines are,
+the stronger the magnetic field.
+同样 线条越密集的地方磁场也越强
+
+The lines point from the north pole to the south pole
+like how electric field lines point from the positive to the negative charge.
+像电场线从正极指向负极电荷一样 磁力线从北极指向南极
+
+But there's a key difference:
+you can have an electric field spreading outward from a single electric charge.
+但有一个重要的区别 你可以拥有一个由单个电荷向外扩散形成的电场
+
+But that can't happen with magnets
+because you can't isolate one magnetic pole.
+但对于磁铁来说这是不可能发生的 因为你不能孤立某一个磁极
+
+If you chop a bar magnet in half,
+如果你把磁铁切两半
+
+you don't end up with one north magnet and one south magnet
+你得到的也不是一个南极磁铁和一个北极磁铁
+
+you end up with two magnets, each with its own north pole and south pole.
+而是各自具有南北极的两个小磁铁
+
+This means that the magnetic field lines
+surrounding\Na magnet always form closed loops.
+这意味着围绕磁体的磁场线总是闭合的
+
+We measure magnetic fields using a unit called the Tesla,
+which is one Newton per Ampere-meter.
+磁感应强度的单位是特斯拉(T)
+
+And 1 tesla is a very strong magnetic field
+特斯拉是一个非常大的单位
+
+the fields from some of the strongest superconducting
+magnets in the world are only 10 teslas.
+世界上最强大的超导磁体产生的磁场也只有10T
+
+Now, when Oersted was doing his demonstration on that fateful day in 1820,
+he was using a regular compass magnet.
+奥斯特当年做实验用的 是一个普通的指南针中的磁铁
+
+But when he brought the magnet close to a wire carrying a current,
+但当他把磁铁靠近通电导线时
+
+the magnetic field from that current exerted a force on the needle,
+moving it to point in a different direction.
+导线周围产生的磁场 使得指针的方向发生了偏转
+
+Oersted had discovered one of the fundamental principles of electromagnetism:
+奥斯特发现了电磁学的基本原理之一
+
+An electric current produces a magnetic field.
+电流能产生磁场
+
+After a few more months of experimenting,
+经过了几个月的实验后
+
+Oersted figured out that when a current runs through a wire,
+the magnetic field that it produces surrounds the wire.
+奥斯特发现 电流流过导线 可以使其产生围绕导线的磁场
+
+Expressed with field lines, the magnetic field would appear as circles,
+ with the wire at their center.
+如果用场线表示 磁场线是导线为中心的同心圆
+
+If the current was coming straight towards you,
+the field lines would be pointing counterclockwise.
+如果电流朝向你 那么场线的方向是逆时针
+
+And we use the vector B to represent the magnetic field.
+我们使用向量B来表示磁场
+
+The magnitude of the vector is the strength of the magnetic field,
+and the direction of the vector is the field's direction.
+B的大小是磁感应强度 方向是磁感线的方向
+
+Now, there's an easy way to remember
+how the direction of the electric current,
+and the direction of the magnetic field it produces, relate to each other.
+关于磁场方向与电场方向的关系 有一个简单的记忆方法
+
+It's called the first right-hand rule
+because here are actually three right-hand rules.
+叫做第一右手规则 因为三条右手规则实际上有三条
+
+Just take your right hand,
+and point your thumb in the direction of the electric current.
+伸出右手 拇指方向指向电流的去向
+
+Now curl your fingers.
+握紧拳头
+
+The direction your fingers are curling?
+注意到手指的卷曲方向了吗
+
+That's the way the magnetic field lines are pointing.
+这就是磁场线的走向
+
+And likewise, if you know the direction of the magnetic field lines,
+you can use the rule to figure out the direction of the current in the wire.
+反义 如果知道了磁感线的方向 也可以找到电流的方向
+
+It really comes in, uh, handy.
+这个方法真的是很方便
+
+Now, if a current running through a wire exerts a force on a magnet,
+you might expect the opposite to be true as well:
+如果电流能对磁体施加力 你可能会想磁铁会反作用于电流吗
+
+That a magnet exerts a force on a current running through a wire.
+磁铁会对通过电线的电流有力的作用
+
+And it does!
+这是真的哦
+
+Which is good, because that's what's protecting us
+from harmful radiation from the Sun right now.
+这是件好事 也是磁场保护我们免受太阳有害辐射的原因
+
+The direction of the force from a magnetic field
+on a current running through a wire will be perpendicular
+to both the magnetic field and the current.
+磁场对流过电线的电流的作用力的方向 垂直于磁场和电流方向
+
+Which brings us to the second right-hand rule!
+下面是第二右手规则
+
+This one helps you keep track of three directions:
+the direction of the magnetic field, the current, and the force.
+这涉及到三个方向：磁场方向 电流方向和力的方向
+
+Here's how to use the second right-hand rule:
+下面来解释第二右手规则的用法
+
+Point your arm in the direction of the current.
+顺着电流方向伸出右手
+
+Then bend your fingers so they're perpendicular to your palm.
+四个手指弯曲 垂直于手掌
+
+This represents the direction of the magnetic field.
+这表示磁场的方向
+
+Your thumb, which is perpendicular to your fingers,
+ is the direction of the force on the wire.
+垂直于四指的拇指方向 就是磁场对电流的力的方向
+
+But what about the strength of that force?
+那么力的大小呢
+
+You can use your hands to figure this out, too!
+这个也可以用手解决
+
+But you'll have to use them to do math.
+不过手是用来计算的
+
+Sorry.
+没办法
+
+The magnitude of the force from a magnetic field on a wire
+is equal to I l B sin theta.
+磁场力的大小F = BILsinθ
+
+This equation tells us that there are four factors
+that affect the magnitude of the force.
+这个方程告诉我们 力的大小与4个量有关
+
+First, there's the current in the wire – that's I
+and the stronger it is, the stronger the force is.
+首先是导线中的电流大小I 电流越大 力就越强
+
+Second, there's the length of the wire running through the magnetic field – that's l
+其次是导线穿过磁场的长度L
+
+– and the longer the wire is, the stronger the force is.
+导线越长 力就越强
+
+Third, there's the magnetic field, B,
+and the stronger B is, the stronger the force.
+第三是磁感应强度B B越大力就越强
+
+Finally, the closer to perpendicular the current
+is with respect to the magnetic field's direction, the stronger the force is.
+最后 电流方向相对于磁场方向越接近垂直 力就越强
+
+That's where the sine theta comes in
+its maximum value is 1, when theta is 90 degrees.
+当θ为90°时 sinθ取得最大值1
+
+So the current is perpendicular to the magnetic field lines.
+此时电流方向垂直于磁场线方向
+
+That's when the force will be strongest.
+这时磁场力是最大的
+
+Similarly, the minimum value of sine theta is 0,
+when theta is 0 – so that means the current is parallel to the magnetic field lines.
+当θ=0时，sinθ取得最小值0 这意味着电流与磁场线平行
+
+And in that case, there won't be any force on the wire at all.
+在此情况下 磁场对导线没有力的作用
+
+Now, all of this math can help us understand
+how we're being protected right now from solar radiation!
+上面的分析可以帮助我们理解 我们为何没有被太阳辐射影响
+
+The Sun is constantly shooting radiation towards Earth,
+in the form of charged particles.
+太阳始终以带电粒子的形式向地球发送辐射
+
+But, luckily for us, Earth has a magnetic field.
+但幸运的是 我们的地球周围有一个磁场
+
+Currents are made up of moving electric charges,
+电流由流动的电荷组成
+
+so it makes sense that a magnetic field would also exert a force
+on single electric charges that pass through it.
+因此地磁场会对通过它的每个电荷也施加作用力
+
+And this is exactly what the Earth's magnetic field does
+to the charged particles coming from the Sun:
+这正是地磁场对待来自太阳的带电粒子的态度
+
+it deflects them, sending them spiraling away
+and protecting us from the worst of the radiation.
+它使带电粒子发生偏转 减小了θ 从而让我们免受最强的辐射
+
+Let's suppose you wanted to find the magnitude of the force
+of the magnetic field on a single charged particle from the Sun.
+假设你想求一个来自太阳的带电粒子受到的磁场力的大小
+
+All you'd have to do is change the equation
+we used for the force on the current,
+to account for the fact that we're talking about a single charge.
+只需要将刚才方程应用于单个带电粒子的情况
+
+The equation for the force of a magnetic field on a current says that:
+磁场力的方程式表示
+
+the strength of the force is equal to the current, times the length of the wire,
+times the strength of the magnetic field,
+times the sine of the angle between the current and the magnetic field.
+力的大小=电流×导线长度×磁感应强度×夹角的正弦值
+
+Now, two of those variables don't apply to a single charge:
+the current, I, and the length, l.
+这些变量中有两个不适用于单个电荷的情况 电流I和导线长度L
+
+But current is just equal to the number of charged particles
+passing a given point over a certain amount of time – which we'll call N
+times their charge, q, divided by that time, t.
+但电流恰好是一定时间内通过的带电粒子的数量×电荷量/时间
+
+For a single charge, N is just 1.
+对于单个电荷来说N为1
+
+And length is just equal to velocity, v, multiplied by time.
+而长度等于速度乘以时间
+
+So we can apply these two facts to our equation for force,
+which tells us that the force on an electric charge
+moving through a magnetic field, is equal to:
+将这两个等式带入原方程中 得到单个带电粒子收到的磁场力大小
+
+q divided by time, multiplied by velocity times time,
+times the strength of the magnetic field, times the sine of theta.
+等于(电荷量/时间)×(速度·时间)×磁感应强度×夹角的正弦值
+
+Those two t's cancel each other out,
+so the equation simplifies to F = qvBsintheta.
+两个t相互抵消 方程化简为F=qvBsinθ
+
+That means that, like the force on a current running through a wire,
+the force on a single electric charge depends on four factors.
+同理 单个电荷受到的力同样取决于4个因素
+
+One is the same as with a current:
+The stronger the magnetic field, the stronger the force.
+第一个也是磁感应强度B 它越大力就越强
+
+The other three factors are slightly different from the case with a current:
+其他三个因素与之前的情况略有不同
+
+First, the force is stronger,
+the closer to perpendicular the charge's velocity is to the magnetic field lines.
+首先 电荷的速度方向越接近磁感线的垂直方向 力就越强
+
+Which means that if the charge's velocity is parallel to the magnetic field lines,
+there won't be any force on whatsoever.
+这意味着 如果电荷的速度与磁感线平行 则不会受到力
+
+Second, the more charge the particle has, the stronger the force.
+其次 粒子带的电荷越多 受到的力就越强
+
+And third, the faster the particle is moving, the stronger the force.
+第三 粒子运动速度越快 力就越强
+
+Finding the direction of this force is where the third right-hand rule comes in:
+找到这个力的方向需要用到第三个右手规则
+
+So get your right hand out again!
+所以再把右手伸出来吧
+
+Straighten your fingers with your thumb stretched outward.
+五指伸直 拇指与其余四指垂直
+
+Then point your arm in the direction of the particle's velocity.
+手臂方向指向粒子运动方向
+
+Then bend your fingers to make them point
+in the direction of the magnetic field lines.
+向磁感线方向弯曲四指
+
+This is where things get a little tricky:
+困难的地方来了
+
+If the charged particle is positive,
+your thumb is pointing in the direction of the force.
+如果粒子带正电 那么拇指方向正好是力的方向
+
+But if it's negative, the force is pointing in the direction opposite your thumb.
+但如果是负电荷 那么力的方向与你的拇指方向相反
+
+So, electric currents create magnetic fields,
+and magnetic fields exert forces on electric currents and charges.
+所以，电能生磁 磁也能对电有力的作用
+
+Oersted's experiment was simple,
+奥斯特的实验虽然简单
+
+but his discovery linked two major fields of physics,
+and inspired other scientists to do a lot more experimenting.
+但将物理学的两个重要领域联系在一起 启发了后世科学家进行更多试验
+
+Today, you learned about magnetism,
+and the magnetic field created by a current running through a wire.
+这节课我们学了磁 以及电流流过产生的磁场
+
+We also talked about the force
+from a magnetic field on a current running through a wire,
+我们还讲了磁场对通电导线的作用力
+
+and on a single charge moving through a magnetic field.
+并分析了单个电荷通过磁场的情况
+
+And we went through the three right-hand rules.
+同时介绍了三条右手判别规则
+

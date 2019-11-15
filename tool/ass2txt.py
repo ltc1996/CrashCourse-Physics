@@ -17,7 +17,7 @@ def ass2txt(filename):
     num = file_split[1][: -4]
     num = '0' * (len(num) < 2) + num
     suf = file_split[0].split('-')[:: -1]
-    suf[0] = ' '.join([i for i in suf[0].split(' ') if i])
+    suf = [' '.join([i for i in j.split(' ') if i]) for j in suf]
     # print(suf, num)
     des_file = "{} #{} {}.txt".format(suf[0], num, suf[1])
     return des_file

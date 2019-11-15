@@ -1,0 +1,396 @@
+Imagine you're floating down a river.
+想象一下你在一条河上漂流
+
+Maybe the stream is calm and serene, flowing without obstruction.
+也许水面开阔 水流平静平静
+
+Or perhaps it's a rushing river, churning and splashing over rocks!
+也可能是一条奔腾的河 水流拍打着岩石
+
+Well, the way water moves in a river is a lot like how electricity flows through a wire.
+电流通过导线的方式就像水流通过河床
+
+But when we say that electricity is flowing, we're really talking about the flow of electrons.
+但是当我们说电流时 我们真的是在说电子的流动
+
+Electric current is the total amount of charge
+passing through a wire over a period of time.
+电流是单位时间内通过导线的总电荷量
+
+But how does current actually form?
+但电流究竟是如何形成的
+
+What can it pass through?
+它能流过什么东西
+
+And what determines how strong it is?
+又是什么决定了它的本领大小呢
+
+It's time to sit back, relax, and go with the flow.
+是时候坐下来放松放松 随波逐“流”了
+
+Let's talk about how we get charges to flow from one place to another.
+我们来讨论怎么让电荷从一个地方流到另一个地方
+
+Last time, we learned that when there's a difference in electric potential between two points,
+上次课我们学过 当两点点存在电势差时
+
+the voltage gives charged particles, like electrons,
+the energy to move from one place to another.
+电压会提供能量 让带电粒子也就是电子 发生位移
+
+Just like a river flows from high elevation to low elevation,
+electric charge flows from high voltage to low voltage.
+水往低处流 电荷也是从高压流向低压
+
+So, we need a way to generate a voltage that
+gets charge to flow continuously, creating an electric current.
+所以我们得想办法产生电压 让使电荷不断流动来产生电流
+
+Before the 19th century, scientists had been able to generate static charge
+by rubbing different materials together.
+19世纪前 科学家知道不同材料的摩擦可以产生静电荷
+
+But they couldn't do much more than create small sparks.
+但他们只能产生一些小火花
+
+They didn't fully understand what they were doing,
+他们不完全知道自己在做什么
+
+so they couldn't figure out how to create a constant voltage
+to generate a steady flow of electricity.
+所以不知道怎么创造出能产生稳定电流的恒定电压
+
+To solve this problem, Italian scientist Alessandro Volta invented the first voltaic cell,
+意大利科学家Volta发明的第一块伏打电池解决了这个问题
+
+which uses chemical reactions to create an electric potential difference
+between two pieces of different metals, known as electrodes.
+它通过两块金属电极间发生的化学反应产生电位差
+
+When the two electrodes are connected, current begins to flow.
+当两个电极连接后电流就开始流动
+
+We call these connection points terminals,
+我们把这些连接点称为端子
+
+and we can connect multiple voltaic cells together
+by placing wires between their opposite electrodes.
+用导线连接相异的电极 从而把电堆串接起来
+
+When one or more voltaic cells are combined,
+their voltages add up, and together they form a battery.
+当电堆组合在一起后 它们的电压累加起来形成了电池
+
+Today's batteries operate under the same principle as the very first voltaic cell.
+今天的电池与第一块伏打电池的原理相同
+
+Now that we have a source for our current,
+we'll also need a ground that's connected to the wire.
+有了产生电流的源头 我们还需要一个接地的导线
+
+This is just a common conductor that ensures the current
+这是一个常见的导体
+
+always has a path to a large reservoir of charge -- usually the Earth itself.
+为了确保电流始终能通向储存着大量电荷的地球
+
+Next, once we can generate an electric current,
+we'll need a way to describe how strongly the charge flows.
+现在我们能够产生电流 就需要一种能描述电流强弱的方法了
+
+If you picture the cross section of a wire,
+如果你画出导线的截面图
+
+you can measure how much charge flows through
+that cross section over a period of time.
+你就能测量出某段时间内流过的电荷量了
+
+The amount of charge moving past this point, divided by the time period,
+通过这个点的电荷量 除以时间长度
+
+gives us a value in Coulombs per second, which we call by the special unit, amperes.
+得到的量单位是库伦每秒 我们称之为安培
+
+So one Coulomb of charge passing through that cross section of wire
+over one second is equal to one ampere of current.
+因此导线横截面在1秒内通过1库伦的电荷量 它的电流强度为1A
+
+OK but wait.
+稍等一下
+
+Did you notice that we're talking about positive charge flowing through a wire?
+注意到没有 我们讨论的是流动的正电荷
+
+How can that be?
+这怎么可能
+
+After all, the current is made up of negatively charged electrons moving through the wire.
+毕竟电流是由带负电的电子组成的啊
+
+Well, when American polymath Benjamin Franklin did experiments with electricity in the 1700s,
+当美国博学家Franklin在18世纪做电力实验时
+
+he established what he thought to be the direction in which electricity flows,
+and he named it the "positive" direction of current.
+他将自认为电荷流动的方向 命为电流的正向
+
+It's a convention we still use today.
+这个惯例我们沿用至今
+
+It wasn't until much later that we learned the direction Franklin chose
+was actually the opposite of how electrons move in a wire.
+很久以后我们才知道 他选取的方向与电子实际运动方向相反
+
+But as far as electric current is concerned,
+但就电流来说
+
+the flow of negatively charged electrons in one direction
+is equivalent to the flow of positively charged particles in the opposite direction.
+负电荷的流动相当于正电荷向方向流动
+
+While this can be confusing,
+这听上去非常饶人
+
+remember that when we talk about the flow of current,
+但你只要记住 我们说的电流方向
+
+the convention is to say the current is in the direction that positive charge flows.
+默认是指正电荷的运动方向
+
+Now, if you've ever installed a battery in anything
+如果你给任何东西装过电池的话
+
+you also know that one terminal of a battery is called positive and the other one is negative.
+你就会知道电池的两个端子分别叫做正极和负极
+
+And conventionally speaking, current flows from the positive to the negative terminal.
+按照约定 电流从正极流向负极
+
+But this means that electrons must flow from the negative terminal of the battery to the positive.
+但这意味着电子必须从电池的负极端子流向正极
+
+Picture the positive terminal as the start of our river, up in the mountains,
+想象正极端子就是河流的源头 位于山顶
+
+and the negative terminal as the end of the river, draining out into the ocean.
+而负极端子就是河流的终点 通向大海
+
+In a river, the strength of the water's flow depends on
+how far the river drops from a high point to a low point.
+对一条河来说 水流的流速取决于源头和终点的落差
+
+And the same is true for electric current and voltage.
+电流和电压也是如此
+
+A high voltage typically corresponds to a high current in a circuit.
+高电压通常对应于电路中的大电流
+
+But voltage alone doesn't determine how much current flows.
+但只靠电压不能确定有多少电流通过
+
+Just like rocks and branches obstruct the passage of water,
+就像岩石和树枝阻碍水的通过一样
+
+the materials used to conduct electricity have properties that impede the perfect flow of electrons.
+导电材料也会阻碍电子的自由通行
+
+This property is known as resistance.
+这个特性被称为电阻
+
+And resistance is described in Ohms,
+电阻以欧姆(Ω)为单位
+
+where one Ohm of resistance would let one Volt of potential generate one Ampere of current.
+1Ω的电阻能让1V的电动势产生1A的电流
+
+When resistance is constant, voltage is directly proportional to current.
+电阻不变时 电压与电流成正比
+
+And this relationship is known as Ohm's Law.
+这个关系称为欧姆定律
+
+This law assumes that the resistance of a material is constant.
+该定律假定材料的电阻是恒定不变的
+
+So we can express voltage simply as current times resistance.
+所以我们可以简单地将电压表示为电流乘上电阻
+
+There are substances in which the resistance is not constant,
+and it changes with current or voltage.
+有些物质的电阻不是恒定的 而是随电流或电压而变化
+
+But for many materials,known as ohmic materials,Ohm's law works quite well.
+但许多材料都符合欧姆定律 它们称作欧姆材料
+
+Now, in ohmic materials, we can use our new expression of Ohm's Law
+to predict and calculate the behavior of a circuit.
+在欧姆材料中 欧姆定律的变形可以预测和计算电路的工作状态
+
+Let's say we have a 9 Volt battery,
+假设我们有一个9V的电池
+
+and we want to know how much current it supplies
+to a light bulb when we complete the circuit.
+我们想知道在一个电路中 点亮一个灯泡要提供多少电流
+
+If we know the system has a total resistance of 15 Ohms,
+如果我们知道电路的总电阻是15Ω
+
+we can divide the battery's voltage by the resistance,
+我们就能用电池的电压除以电阻
+
+to find that it has a current of 0.6 amperes, or 600 milliamperes.
+求出电流为0.6A 即600mA
+
+And whether it's a light bulb, a speaker system, or a supercomputer,
+无论是灯泡 扬声器 还是超级计算机
+
+most electrical devices and materials contain some level of resistance.
+绝大多数的器件和材料都存在电阻
+
+Even wires in a circuit have some resistance,
+就连导线中也有电阻
+
+but compared to the resistance of a connected device like a light bulb,
+但相比连接的灯泡等电器中的电阻
+
+it's so minuscule that we typically neglect it.
+导线的电阻实在太小了 完全可以忽略
+
+But you want to know a neat trick?
+想知道一个小把戏吗
+
+Well it doesn't matter because I'm going to tell you, anyway.
+不管你想不想知道我都会告诉你的
+
+If you can make certain conductive materials extremely cold,
+you can bring their resistance to zero.
+如果将某些导电材料的温度降到非常低 可以得到零电阻
+
+We call these materials superconductors,
+这些材料称为超导体
+
+and trust me when I say that research into these materials
+is a very important -- and lucrative -- field of study.
+相信我 超导材料的研究不仅重要而且有商机
+
+Because, if you can reduce the resistance of a material,
+by getting rid of that natural loss of energy,
+如果你能移除能量损耗 来降低材料的电阻
+
+you can significantly increase the amount of electricity you transmit.
+你就能极大提高电流的传输能力
+
+And in all aspects of engineering, efficiency is key.
+在工程的各个方面中效率都是关键
+
+Now, in that spirit, I should probably point out here that
+the whole point of batteries isn't to just push electrons around.
+说到这个 我应该提一下 电池的作用不只是推动电子运动
+
+We need to put those electrons to work.
+我们要让电子做功
+
+For example, when we attach a battery to a light bulb,
+比如 我们接上灯泡时
+
+we take the potential energy in the battery and turn it into what we need, light.
+我们是把电池中的势能转化成所需的光能
+
+As current flows through the light bulb,
+电流通过灯泡
+
+the small piece of filament provides resistance,
+一小段灯泡提供电阻
+
+which transfers electric energy into thermal energy and light.
+将电能转化成热能和光能
+
+And since we're dealing with energy transformed over time,
+我们讨论的是一段时间内能量转移
+
+what we really want to know is how much power is used by the bulb.
+我们真正关心的是灯泡上消耗的能量大小
+
+Power is the amount of energy transformed by a device over time.
+功率描述了设备在单位时间内转移的能量
+
+And by "transformed," I mean the energy is converted from electric energy
+into some other useful kind of energy, like heat or light.
+我说的转移 是指电能转化成其他类型的能量 例如热或光能
+
+We've already learned how to calculate how much energy
+我们已经学会了计算
+
+is in a certain amount of charge
+that's moving between a difference in potential -- that is, the voltage.
+在电势差 即电压之间 移动的一定量电荷要花的能量了
+
+And since charge transferred over time is just current,
+因为某段时间通过的电荷量就是电流
+
+it follows that the power used by the bulb is equal to the current in the circuit
+功率的另一个因子是灯泡两端加的电压
+
+times the voltage across the system.
+因此灯泡的电功率等于电路中的电流乘以电压
+
+And just like in our other calculations of power,
+our resulting units are in Watts, named for Scottish inventor James Watt.
+和其他功率的单位一样是瓦特(W) 以苏格兰发明家Watt的名字命名
+
+This equation holds true for the power used by any electronic device,
+or the power supplied by a battery.
+这个公式适用于任何电子设备和电池供电的器件
+
+Now, anything that consumes power
+from a light bulb to a refrigerator to an entire house
+任何耗电的设备 灯泡 冰箱 家用电器等
+
+can be modeled in our equations as a resistor, because they create resistance.
+都可以看成是电阻 因为它们都阻碍了电子的运动
+
+And if you want to find the power that's consumed by a resistor,
+如果你要求电阻消耗的功率
+
+you can substitute Ohm's law into the power equation
+to discover some helpful relationships that hold true for all ohmic materials.
+把欧姆定律代入功率方程 得到一个对任何欧姆材料都适用的关系式
+
+Let's start with the fact that power is a function of current through, and voltage across, a resistor.
+功率是通过电阻的电流I 与电阻两端的电压U 的二元函数
+
+And Ohm's law is about relating voltage, current, and resistance together.
+而欧姆定律是电压 电流和电阻的关系
+
+So, you can either replace the current in the equation,
+and get a new power equation in terms of voltage and resistance
+所以既可以消去方程中的电流 得到功率关于电压和电阻的表达式
+
+…or you can replace the voltage, and get an expression in terms of only current and resistance.
+也可以消去电压 得到关于电流和电阻的表达式
+
+This is especially useful when you don't have
+all the possible information about the circuit.
+当你没有得到电路的所有信息时 这个公式就非常有用了
+
+So that's your introduction to electric currents!
+这就是我们对电流的介绍
+
+They really are just like flowing rivers!
+它们真的就像是流动的河流
+
+And, once you understand the elegant math behind them, they're almost as beautiful.
+而且它们背后优雅的数学理论 几乎是同样美丽
+
+Today we learned about what defines electric current
+and how we generate it using voltaic cells that make up batteries.
+今天 我们学习了电流的定义 以及如何组合伏打电堆形成电池产生电流
+
+We also learned about Ohm's Law and the relationship between voltage, current, and resistance.
+我们还了解了欧姆定律以及电压 电流和电阻之间的关系
+
+Finally, we discussed what power is and how we measure the power produced and consumed in a circuit.
+最后 我们讨论了电功率 以及如何度量电路中产生和消耗的功率
+

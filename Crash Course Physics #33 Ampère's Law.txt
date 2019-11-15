@@ -1,0 +1,392 @@
+It was the autumn of 1820. 
+在1820年的秋天
+
+Hans Christian Oersted had just discovered
+the connection between electricity and magnetism. 
+奥斯特刚刚发现了电和磁之间的关系
+
+Meanwhile, a French physicist named André-Marie Ampère
+was experimenting with some wires, 
+同时 有一位叫安培的法国人在摆弄着电线
+
+trying to learn more about the connection
+between currents and the magnetic fields they create. 
+他想深入的探究电流与其产生的磁场之间的关系
+
+He took two parallel wires,
+他取了两根导线 并排放好
+
+ran a current through both of them in the same direction,
+然后给它们通上同向的电流
+
+and the wires attracted each other! 
+两根导线居然靠在一起了
+
+And when he ran a current through both wires in the opposite directions,
+the wires repelled each other!
+当通过导线的电流方向相反时 导线相互排斥
+
+Studying this strange force between the wires
+led Ampère to discover one of the most fundamental laws of electromagnetism:
+what we now call Ampère's Law. 
+为了纪念他 我们把它叫做安培定律
+
+通过研究导线的奇怪运动 安培发现了电磁学最基本的定律
+
+And that's not the only weird thing that current-carrying wires do. 
+载流导线还有其他奇怪的行为
+
+If you wrap a current-carrying wire into a coil,
+the inside of the coil acts like a magnet. 
+如果将导线绕成线圈 那它的内部会像磁铁一样
+
+There's a north pole at one end of the coil and a south pole at the other. 
+线圈的一端是北极 另一端是南极
+
+And if you put a loop of current-carrying wire in a magnetic field, it'll turn! 
+如果把一个载流线圈放在磁场内部 它还会发生旋转
+
+Ampère's law lets you calculate the strength of the currents
+and magnetic fields in all these situations. 
+以上场景中的电流大小和磁感应强度都可以通过安培定律计算出来
+
+This also helps explain how motors work. 
+它还能解释电动机是如何工作的
+
+So first, those two parallel wires: why do they attract and repel each other? 
+第一个问题 为什么两条平行导线会发生吸引或排斥
+
+It's easier to see why the two wires act the way they do
+if you look at one wire first. 
+如果先分析其中一根导线的话 这个运动问题会简单很多
+
+Like we talked about in our last episode,
+the current running through a wire generates a magnetic field.
+上节课我们讲了 通电导线周围会产生磁场
+
+So, let's say you have a long, straight wire with a current running through it.
+假设你有一条又长又直又带电的导线
+
+The current will create a magnetic field circling the wire. 
+电流会产生一个围绕导线的磁场
+
+That magnetic field decreases the further you are from the wire. 
+离电线越远 磁场效果越弱
+
+If you draw a circle that's, say, a centimeter from the wire,
+the magnetic field along the circle will have a set strength. 
+如果画一个离导线一厘米的圆 圆周上每点的磁感应强度是相同的
+
+Ampère realized that the stronger the current is that's running through the wire,
+the stronger the magnetic field would be along that circle. 
+安培发现通过电线的电流越强 沿圆周的磁感应强度就越大
+
+That's the basic logic behind Ampère's Law. 
+这是安培定理所表达的逻辑
+
+But this is physics, and in physics, 
+we tend to express relationships in terms of equations. 
+但在物理学中 我们倾向于用方程式描述关系
+
+The equation for Ampère's law applies to any kind of loop
+not just a circle surrounding a current,
+无论通电的回路是圆形或是其他形状
+
+no matter how many wires there are or how they're arranged or shaped. 
+无论导线有多少根 排列方式如何 安培定理都适用
+
+The law is valid as long as the current is constant. 
+只要电流是恒定的 该定律就适用
+
+The equation itself says that the integral of the magnetic field, B, along the loop,
+times the cosine of theta, with respect to distance,
+方程的左边是回路内的磁感应强度与夹角余弦的积分
+
+is equal to a constant – called mu_0 – 
+multiplied by the current running through the loop. 
+方程的右边是一个常数μ 与环路电流的乘积
+
+{\fs30\pos(692,662)}0
+
+This equation just means that the total magnetic field along the loop
+is equal to the current running through the loop, times a constant number. 
+方程的含义是 沿环路的总磁场与环路内的电流成正比
+
+The constant mu_0 is sometimes called the magnetic constant,
+and it's equal to 4 times pi times 10to the -7th Newtons per Amperes squared.
+这个常数μ 被称为(真空中的)磁导率 大小如图所示
+
+{\fs30\pos(382,664)}0
+
+Now, you may have noticed that there's an integral
+ on the left-hand side of the equation for Ampere's law. 
+你应该已经注意到方程的左边是一个积分
+
+And you might remember that we use integrals
+when we need to add up lots of infinitely tiny values.
+你应该记得 只有对无限小求累和时才会用到积分
+
+Well, in Ampère's Law, we're adding up
+all the little bits of magnetic field along the loop. 
+在安培定律中 我们是把环路中所有的小磁场加起来
+
+We're saying that all those bits of magnetic field added together
+are equal to the enclosed current, times the magnetic constant. 
+我们说 所有小磁场的累和 等于电流乘以磁导率
+
+B is the strength of the magnetic field at each point along the loop.
+B是圆周上的每个点处的磁感应强度
+
+Theta is the angle between the magnetic field and each point on the loop. 
+θ是磁场方向与环路上点的方向之间的夹角
+
+And ds is referring to each infinitely tiny section of the loop. 
+ds是每个微小的环路元
+
+The mathematics of Ampère's law can get very complicated very quickly. 
+安培定律的计算难度立马就上去了
+
+But to get a basic sense of how it works,
+为了分析最基本的原理
+
+let's return to our scenario: a circle around one long straight wire. 
+我们回到一开始的长直导线周围的圆周上去
+
+We're trying to find the magnetic field at each point on the circle – that's B – 
+in terms of the enclosed current and the radius of the circle. 
+给定电流和半径后 圆周上的每个点上都有各自的磁感应强度B
+
+So first, let's solve the integral in Ampère's law,
+to get the total magnetic field along the circle.
+我们先来计算方程左边的积分 即沿回路的总磁场大小
+
+According to the law, we're solving the integral of the magnetic field,
+times the cosine of theta, with respect to the points along the circle. 
+图中方程表示 磁场的和乘上θ的余弦乘上回路元
+
+But we can simplify this integral pretty easily. 
+但这个积分很容易化简
+
+First, you'll notice that the magnetic field coming from our wire 
+is parallel to the circle at every point. 
+首先注意到 磁场的绕向就是圆周方向 即两者平行
+
+So the angle, theta, is 0, and the cosine of 0 is 1. 
+所以夹角θ是0 而cos0 = 1
+
+Anything times 1 is equal to itself, 
+so we can just knock the cosine of theta term out of the integral. 
+1乘任何数等于任何数 cosθ这一项可以省去不写了
+
+Now we're left with the integral of the magnetic field, B,
+with respect to the points along the circle. 
+然后再看每个点的磁感应强度大小
+
+But every part of the circle is the exact same distance from the wire! 
+但圆周上的每个点到导线的距离都相等
+
+So the magnetic field will be the same at every point. 
+所以每个点的磁感应强度也相等
+
+In other words: B is constant, so we can move it in front of the integral sign. 
+也就是说B是恒定的 我们把B写到积分号外面去
+
+Now all we need to do is figure out the integral of all the points along the circle,
+which is equal to the circumference of the circle. 
+现在只需要对回路元求和 等于圆周长
+
+So, 2 times pi times the radius. 
+即2πr
+
+Putting that all together, 
+we find that when we apply Ampère's law to a long straight wire,
+the total magnetic field along a circle surrounding a wire
+ is equal to B times 2 times pi times the radius. 
+综上 安培定理应用在长直导线时形式为B·2pir
+
+And that total magnetic field
+is equal to the magnetic constant times the enclosed current. 
+而它等于磁导率乘以环路电流
+
+So! For a long straight wire, B is equal to the magnetic constant
+times the enclosed current, divided by 2 pi r. 
+因此长直导线的磁感应强度 等于磁导率乘以环路电流除以环路周长
+
+The equation for the magnetic field along a circle surrounding one wire
+知道了一根导线圆周上的磁场方程以后
+
+turned out to be really important for Ampère
+ when he was trying to figure out what was going on with two wires. 
+安培现在就可以研究两根导线的运动情况了
+
+When both wires had current running through them in the same direction,
+they attracted each other. 
+两根导线通上同向电流时 它们互相吸引
+
+And when the current was going in opposite directions,
+ they repelled each other. 
+电流方向相反时 两根导线相互排斥
+
+It's easy to see why, if you apply the first right-hand rule.
+借助右手定则的话 很容易得到答案
+
+That's the one that says if you point your right thumb
+in the direction of a current and curl your fingers,
+the magnetic field points in the same direction as your fingers. 
+右手大拇指沿电流方向 磁场就是其余手指弯曲的方向
+
+So first, let's look at the wires with currents running in the same direction. 
+首先我们看看同向电流的情况
+
+For this example, we'll say that they're vertical wires,
+with the current flowing upward. 
+假如我们把导线竖直摆放 电流方向向上
+
+If you point your right thumb in the direction of the current in each wire,
+your fingers will curl in the direction of the magnetic field. 
+右手拇指指向导线中电流的方向 四指的弯曲方向就是磁场方向
+
+The magnetic field from the wire on the left will be pointing to the right.
+左侧导线的磁场指向右侧
+
+And the magnetic field from the wire on the right will be pointing to the left,
+so the wires will attract each other. 
+而右侧导线的磁场指向左侧 因此导线互相吸引
+
+For the case where the current is flowing in opposite directions,
+the reverse is true, so they'll repel each other. 
+电流流向相反时结果也相反 所以导线会相互排斥
+
+Ampere also wanted to find the force from the magnetic field on the wires. 
+安培想给出导线受到磁场力的表达式
+
+Like we talked about last time,
+the force depends on the angle between the current and the magnetic field,
+the strength of the current, the length of the wire, 
+and the strength of the magnetic field. 
+类似的 这个力取决于导线长度和电流与磁场的夹角及各自的强度
+
+Calculating that magnetic field, B, was the tricky part.
+计算磁感应强度B是最麻烦的部分
+
+But the equation he came up with, the one that we now call Ampere's Law,
+但他给出的 被称为安培定律的方程
+
+allowed him – and future physicists! – to figure out what B was 
+in a lot of situations, including the case of the two parallel wires. 
+为后世的物理学家们提供了B的计算方法 例如两条平行导线的情况
+
+So the two parallel wires attracted and repelled each other
+because of the magnetic field created by the current. 
+电流产生的磁场使两根平行导线相互吸引或排斥
+
+What about the coil of wire that turned into a magnet? 
+那么变成磁铁的线圈是什么情况呢
+
+Well, you can probably guess that its behavior also has to do
+ with the magnetic field produced by a current. 
+你可以猜到它的运动行为也与电流产生的磁场有关
+
+See, that coil of wire is a special shape called a solenoid. 
+这样的线圈称为螺线管
+
+And when a solenoid has a current running through it,
+当螺线管中有电流通过时会产生磁场
+
+it produces a magnetic field, all of which goes through the inside of the coils. 
+几乎所有的磁场都会穿过螺线管内部
+
+If you curl your right hand around the solenoid so that
+your fingers point in the direction of the current running through the loops, 
+your thumb will point in the direction of the magnetic field. 
+右手顺着电流方向握住螺线管 此时大拇指将指向磁场N极方向
+
+Ampère's law is useful for solenoids, too: 
+安培定理对螺线管同样适用
+
+it says that the magnetic field inside the coils, 
+B is equal to the magnetic constant, times the current 
+running through the coils, times the number of coils. 
+线圈内部的磁感应强度B 等于磁导率乘以线圈电流乘以线圈匝数
+
+So that's what happens when loops of wire create a magnetic field. 
+这就是用线圈产生磁场的情况
+
+When you stick a loop of wire in a magnetic field,
+something a little stranger happens: the loop of wire turns. 
+当你把半圈导线放入磁场时 导线会发生神奇的旋转
+
+That's because the magnetic field creates a torque on the wire. 
+这是因为磁场在导线上产生扭矩
+
+Take a look at this loop of wire. 
+比如这个线圈
+
+The horizontal parts of the loop are parallel to the magnetic field,
+so it won't exert a force on them. 
+环路的上下边平行于磁场 所以磁场对它们没有力的作用
+
+But the vertical parts of the loop are perpendicular to the magnetic field,
+so it will exert a force on them – a force that turns the loop. 
+但左右边与磁场垂直 会受到磁场力的影响 迫使线圈转动
+
+From the last episode, 
+we know that the force from the magnetic field on the wire
+
+ will be equal to the current, times the length of 
+that part of the coil, times the magnetic field. 
+上节课我们教了磁场力的公式 如图
+
+And we can use the second right-hand rule
+to figure out the direction of that force. 
+我们可以根据第二右手定则确定磁场力的方向
+
+If you point your hand in the direction of the current,
+then bend your fingers in the direction of the magnetic field,
+your thumb will point in the direction of the force. 
+四指指向电流方向并向磁场方向弯曲 那么拇指方向就是受力方向
+
+Which turns out to be away from you for the left-hand side of the coil,
+and toward you for the right-hand side. 
+容易验证 线圈的左侧边远离你运动 右侧边则朝向你运动
+
+{\pos(606,512)}力的方向：ⓧ                        ⊙
+
+So the coil turns clockwise. 
+所以线圈顺时针旋转
+
+This is how electric motors work:
+they have an electric current that continuously flips directions,
+making loops of wire spin. 
+这就是电动机的工作原理 通过不断颠倒电流方向 使线圈发生旋转
+
+Those moving loops of wire can be used to do mechanical work,
+这些旋转的线圈可以做机械功
+
+like turning the drum in your washing machine, or your power drill,
+or the fan that probably cools your computer. 
+例如洗衣机里的滚筒 电钻的钻头或计算机的风扇
+
+There are electric motors all over the place. 
+电动机无处不在
+
+So the next time you wash your clothes, or put together some furniture, 
+你下次用洗衣机洗衣服 或是用电钻改装家具
+
+or use your computer without it overheating,
+或是在电脑拼命散热时打游戏
+
+or do anything else that involves an electric motor, you have Ampère to thank. 
+等等涉及到电动机的日常时 别忘了对安培老爷子说声谢谢{\fn隶书}~
+
+Today, you learned about Ampère's law,
+and how it applies to a long straight wire. 
+这节课 我们学习了安培定理及其在长直导线情况下的用法
+
+We also talked about the forces between two parallel wires, 
+and the magnetic field created by a solenoid. 
+还讨论了两条平行导线之间的磁场力及螺线管产生的磁场
+
+Finally, we described the torque on a current loop. 
+最后 我们讲了线圈回路上的转矩
+
