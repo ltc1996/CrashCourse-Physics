@@ -1,9 +1,11 @@
-# CrashCourse-Physics
+# CrashCourse-Physics       
 
 ## 十分钟速成课 | 物理部分双语字幕 
 
 ### [原视频合集（生肉）](?)
 ### [b站双语合集链接（更新中）](https://www.bilibili.com/video/av49721651)
+
+# Don't Forget To Be Awosome!
 
 ### 分集标题。。（待续）
 
