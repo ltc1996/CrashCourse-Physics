@@ -9,7 +9,7 @@
 ### [原视频合集（生肉）](https://www.youtube.com/watch?v=OoO5d5P0Jn4)
 ### [b站双语合集链接（更新中）](https://www.bilibili.com/video/av49721651/跳转bilibili)
 
-# Don't Forget To Be Awosome!
+# Don't Forget To Be Awesome!
 
 ### 分集标题。。（待续）
 
