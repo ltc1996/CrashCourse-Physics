@@ -1,0 +1,582 @@
+You know what can be kind of peculiar and surprising
+
+你知道什么是特别和令人惊讶的吗
+The fact that, whenever you want to shoot outside,
+
+事实上  无论何时你想在外面拍摄
+ everyone decides to mow their lawn.
+
+都有人决定在此时修剪草坪
+You know what else can be kind of peculiar and surprising?
+
+你知道还有什么是特别和令人惊讶的东西吗
+Water.
+
+水
+And in the right circumstances
+
+在恰当的条件下
+I could even take water that’s flowing down and spurt it straight up
+
+我甚至可以使向下流的水直接喷出来
+How?
+
+怎么样
+All of these things are possible
+
+所有这些都是可能的
+thanks to the study of the flow of fluids, known as Fluid Dynamics.
+
+得益于对流体流动的研究  也被称为流体动力学
+By now, you’ve picked up on the fact that
+
+到现在为止  你已经了解这个事实
+even though we live in the physical universe
+
+即使我们生活在物质世界中
+describing the rules of the universe sometimes requires us to pretend
+
+描述宇宙规则  有时需要我们假设
+that certain things aren’t happening.
+
+某些事情没有发生
+Like the time we rolled a bunch of stuff down a ramp
+
+就像我们在斜坡上向下滚动东西时
+and pretended that there was no  kinetic friction.
+
+假设没有动摩擦一样
+The same is true when we talk about fluids.
+
+当我们谈论流体时  也是如此
+Because, fluids in motion are dynamic
+
+因为  运动中的流体是动态的
+and there are many, many things going on in and around them all at once.
+
+瞬间流体内外发了很多很多变化
+So, in order to grasp the essentials of fluid dynamics
+
+所以  为了掌握流体动力学的要领
+let’s just do some pretending, shall we?
+
+让我们做一些假设  好吗
+For one thing, we’re going to consider the fluids in our examples to be incompressible
+
+首先  我们要考虑示例中的流体是不可压缩的
+meaning that their densities won’t change.
+
+意即密度不会改变
+We’re also going to assume that fluids flow perfectly smoothly, and have no viscosity.
+
+我们还假设流体流动顺畅  没有粘性
+You’ve probably heard of viscosity before:
+
+你之前可能听说过粘性
+When a fluid flows easily, like water, we say that it has a low viscosity.
+
+当流体像水一样容易流动时  我们说它的粘性很低
+Fluids that don’t flow as easily, like honey, have a higher viscosity.
+
+像蜂蜜一样不易流动的流体具有更高的粘性
+And much like kinetic friction does in moving objects
+
+就像物体移动中的动摩擦力一样
+viscosity tends to complicate things in moving fluids
+
+粘性往往使流动的流体变得复杂
+which is why we’re generally going to pretend
+
+这就是为什么  我们通常会假设
+that the fluids we’re studying don’t have any.
+
+我们研究的流体没有粘性
+Now, say you have some water
+
+现在  有一些水
+which exists under all of these hypothetical conditions
+
+满足以上所有假设条件
+in a pipe, moving along smoothly.
+
+在管道中  平稳流动
+This pipe narrows about halfway through, so that one end is narrower than the other.
+
+这根管子在半程处变窄  因此一端比另一端窄
+This shape is going to affect some of the properties of the water’s flow,
+
+这种形状会影响水流的某些特性
+as it passes through the narrower side of the pipe compared to the wider side.
+
+当水流穿过比宽处细的管段时
+But one thing that won't change is the mass of water
+
+但有一点不会改变的是水的质量
+that’s moving through any given area in the pipe over time.
+
+随着时间的推移  在管道的任何给定区域内移动的水的质量
+This is called the mass flow rate
+
+这称为质量流量
+and it’s always going to be the same everywhere in the pipe
+
+它在管道各处都是一样的
+That’s just because, as the water flows through the pipe,
+
+那是因为  当水流过管道时
+it pushes along the water in the rest of the pipe, too.
+
+会推动着管道其他部分的水流动
+So if one part of the pipe has, say,
+
+因此例如  如果部分管道
+a kilogram of water moving through it every second
+
+每秒钟有一千克的水流过
+the rest of the pipe
+
+管道的其余部分
+also has to have a kilogram of water moving through it every second
+
+每秒钟必须也有一千克的水流过
+This fact, that the mass flow rate at one point in the pipe
+
+这个事实  即管道中某一点的质量流量
+will be equal to the mass flow rate at any other point
+
+等于任何其他点的质量流量
+is called the equation of continuity.
+
+被称为连续性方程
+And it can tell you a lot about
+
+它可以告诉你很多
+the relationship between the velocity of a fluid
+
+流体速度
+and the cross-sectional area of the pipe that it’s flowing through.
+
+与流过管道横截面积之间的关系
+Let’s say you’re an engineer for the Water Department of Hypothetical City,
+
+假设你是城市水务部的工程师
+and you need to understand the mass flow rate of hypothetical water
+
+你需要了解水的质量流量
+that’s going through a certain point in your underground pipe system.
+
+在你的假想地下管道系统中的某个点
+But you don’t know the mass
+
+但是你不知道在特定时刻通过那部分管道的水的质量
+that’s going through that part of the pipe at any given moment.
+
+但是你不知道在特定时刻通过那部分管道的水的质量
+All you do know are the water’s velocity
+
+你所知道的只有水的速度
+and the area of the cross-section of that certain section of pipe.
+
+和某段管道的横截面积
+In order to describe the mass flow rate,
+
+为了描述质量流量
+you’ll have to use what we know about density, area
+
+你必须使用我们所知的密度 面积
+and velocity to work some algebra magic
+
+以及速度  来做一些代数魔法
+First, let’s have a look at a cross section of that point of the pipe.
+
+首先  让我们看一下该点所在管道的横截面
+From our last lesson, you know that
+
+从我们上一集开始  你已知道
+the mass of the fluid moving past this cross-sectional area, over time,
+
+随着时间的推移  流过该横截面的流体质量
+is equal to its density, times its volume.
+
+等于其密度  乘以其体积
+And, the volume of the fluid moving past this point  is simply
+
+而且  流过该点流体的体积很简单
+the area of the pipe at this cross section, times the distance the fluid moves.
+
+即在该管道横截面面积乘以流体移动的距离
+And! From our episodes on the physics of motion, you also know that
+
+而且  从我们运动物理学那集中  你还知道
+the distance the fluid moves,divided by the change in time
+
+流体移动的距离  除以时间的变化
+is equal to the fluid’s velocity.
+
+等于流体速度
+So, by putting all that together
+
+所以  将所有这些放在一起
+you can get a different version of the equation of continuity
+
+你可以得到不同版本的连续性方程式
+At any given point in the pipe, the density of the fluid flowing through it
+
+在管道中的任何给定点处  流过该点流体的密度
+times the area of the pipe, times the fluid’s velocity
+
+乘以管道面积  乘以流体的速度
+will be the same as for any other point in the pipe.
+
+将与管道中的任何其他点相同
+And since you’re dealing with an incompressible fluid,
+
+既然你正在研究一种不可压缩的液体
+the density is going to be the same for every point in the pipe anyway.
+
+无论如何  管道各点密度都是相同的
+So really, you’ve just figured out that at any point in the pipe
+
+所以你刚刚发现   在管道任何一点
+the area of the pipe times the fluid’s velocity will be the same as for any other point.
+
+面积乘以流体的速度的值  将与其他任何点相同
+It’s the same thing we said before:
+
+这跟我们之前说的一样
+The mass flow rate is the same for every point in the pipe.
+
+管道中各点的质量流量都相同
+But instead of putting that relationship in terms of mass and time,
+
+但不是把这种关系建立在质量和时间上
+you’re putting it in terms of area and velocity.
+
+而是建立在面积和速度方面
+And, in your role as a water-department engineer, this is important for you to know!
+
+而且  作为水务部门的工程师  这对你来说很重要
+Because it means that, where the pipe is narrower
+
+因为这意味着  管道更窄
+the fluid will have to flow faster, in order to compensate.
+
+为了补偿  流体必须更快地流动
+But here’s a weird thing:
+
+但还有一个奇怪的事情
+A fluid that’s flowing really fast actually
+
+事实上流速快流体的压力
+has less pressure than when it’s flowing more slowly.
+
+比流速慢流体的压力小
+Sure, it might feel like it’s exerting more force
+
+当然  速度快可能会令人以为它会施加更大的力
+than when it flows through a wider opening.
+
+比起面积更大（速度更小）的点
+But that’s not what physicists mean when they talk about the pressure in a pipe.
+
+但这并不是物理学家谈论管道压力的方式
+They’re really talking about the pressure on the walls of the pipe.
+
+他们认真地研究管道壁上的压力
+This means that, the slower the fluid flows
+
+这意味着流体流动越慢
+the more pressure it puts on the pipe itself.
+
+它对管道造成的压力越大
+This is known as Bernoulli’s principle.
+
+这被称为伯努利原理
+It states that the higher a fluid’s velocity is through a pipe
+
+它表明通过管道的流体速度越大
+the lower the pressure on the pipe’s walls, and vice versa.
+
+管壁上的压力越低  反之亦然
+Bernoulli also came up with what we now know as Bernoulli’s equation
+
+伯努利也提出我们现在所知的伯努利方程式
+It might look kind of intimidating at first.
+
+起初它可能看起来有些令人生畏
+But when you break it down,
+
+但是当你把它分解时
+it’s actually just a way of combining a bunch of things that you’ve already learned.
+
+它实际上只是一种将你已经学到的东西整合到一起的方法
+Bernoulli based his equation on the concept of conservation of energy:
+
+伯努利基于能量守恒概念的方程式
+as a fluid flows through a pipe, it won’t gain or lose any energy.
+
+当流体流过管道时  能量不会获得或失去
+This means that, no matter where the fluid is in the pipe,
+
+这意味着  无论管道中流体在何处
+if you take all of the forms of energy
+
+如果你将液体在某点某刻所具有的全部形式的能量加合在一起
+that the fluid has at that point and add them up
+
+they’ll equal the same number as any other point in the pipe.
+其数值大小与管道中点的数值大小相同
+
+To better understand this,have a look at
+为了更好地理解这一点  请看
+
+how the three forms of energy in a fluid are represented in Bernoulli’s equation:
+伯努利方程中表示流体中的三种能量的形式
+
+First, there’s pressure times volume.
+首先  压力乘以体积
+
+In our episode on work and energy, we defined energy as the ability to do work.
+在我们关于工作和能量的一集中  我们将能量定义为做功的能力
+
+And when a fluid applies pressure and moves the volume of fluid that’s downstream,
+当流体施加压力并移动下游的流体时
+
+it’s doing work.
+它正在做功
+
+So, pressure times volume must be a form of energy.
+因此  压力乘以体积须是一种能量形式
+
+The first term in Bernoulli’s equation takes that energy, and divides it by volume.
+伯努利方程中的第一项采用了这种能量形式  并将其除以体积
+
+Which just leaves pressure.
+这只会留下压力
+
+Next, a flowing fluid also has kinetic energy.
+接下来  流动流体也具有动能
+
+When we first talked about kinetic energy,
+当我们第一次谈到动能时
+
+we said that it’s equal to half of an object’s mass, times its velocity squared.
+我们说它等于  物体质量的一半乘以速度平方
+
+Again, Bernoulli divided this form of energy by volume
+伯努利再次把这种形式的能量除以体积
+
+to get half the fluid’s density, times its velocity squared.
+获得二分之一乘以流体密度乘以其速度的平方  这一项
+
+That’s called the kinetic energy density,
+这被称为密度动能
+
+and it’s the second term of Bernoulli’s equation.
+这是伯努利方程的第二项
+
+Finally, a flowing fluid also has the potential energy that comes from gravity.
+最后  运动流体也有来自重力的势能
+
+And we’ve said before that the potential energy from gravity is equal to
+我们之前已经说过  来自重力的势能等于
+
+an object’s mass, times small g, times its height.
+物体质量  乘以小g  乘以高度
+
+When Bernoulli divided that by volume, he got density times small g times height
+当伯努利将之除以体积时  他得到密度乘以小g乘以高度
+
+the potential energy density, and the third term of his equation.
+这就是密度势能  他方程中的第三项
+
+Why divide all these terms by volume?
+为什么要这三项除以体积呢
+
+Well, when it comes to fluids
+因为  当谈到流体
+
+it’s just easier to talk about things in terms of density than it is to talk about mass.
+从密度的角度谈论比质量角度更容易
+
+So when you look at his equation piece by piece
+所以  当你分块地看他的方程时
+
+you can see that Bernoulli was really
+你可以看到伯努利方程
+
+just putting conservation of energy into a special form that would be useful for fluids.
+只是能量守恒的一种特殊形式而已  这个形式对流体十分有用
+
+Now, let’s look at a special case of Bernoulli’s equation,
+known as Torricelli’s theorem.
+
+现在  我们来看一个伯努利方程的特例  称为托里切利定理
+Torricelli’s theorem uses conservation of energy
+
+托里切利定理使用能量守恒
+to find the velocity of fluid flowing from a small spout in a container.
+
+得到容器的小口喷出的流体的速度
+And it says that the velocity of the fluid coming out of the spout
+
+它说从喷口流出流体的速度
+is the same as the velocity of a single droplet of fluid
+
+与单个液滴
+that falls from the height of the surface of the fluid in the container.
+
+从容器液面高度落下而得到的速度相同
+In other words, the pressure that’s pushing the fluid out of the spout
+
+换句话说  将流体推出喷口的压力
+gives it the same velocity that it would get from the force of gravity.
+
+赋予它与在重力作用下相同的速度
+To see this theorem in action,
+
+要看这个定理在起作用
+let’s say you’re not a water department engineer  you’re just you
+
+不需假设你是水务部门工程师  你就是你
+and you’re watering your garden with the water you’ve saved up in your rain barrel.
+
+你用雨水桶中储存的水给花园浇水
+Your barrel doesn’t have a top,
+
+你的桶没有盖
+and you’re watering your carrots and lettuce and stuff
+
+而你正在给胡萝卜生菜和其他植物浇水
+from a hole  or a spout  in the side.
+
+水从一侧的洞或喷口流出
+Now: You want to know: What’s the velocity of the water coming out of the spout?
+
+现在你想知道  从喷口流出的水流速是多少
+From Bernoulli’s equation,
+
+ we know that the sum of the pressure, kinetic energy density,
+根据伯努利方程  我们知道密度压能  密度动能
+
+and the potential energy density of the water at the top of the barrel
+以及桶顶密度势能之和
+
+will equal the sum of those three qualities of the water coming out of the spout.
+等于从喷口流出流体的三种能量的之和
+
+But we can simplify that relationship a bit, to find the velocity of the fluid coming out.
+但是我们可以稍微简化这种关系  找出流体流出速度
+
+First, the upper surface of the water in the barrel
+首先  桶中水上表面
+
+and the water that’s coming out of the spout, are both exposed to the atmosphere.
+以及从喷口流出的水都暴露在大气中
+
+So the pressure at those points will be the same it’s just the atmospheric pressure.
+因此  这些点的压力将与大气压力相同
+
+So we can cross off the pressure from each side of the equation.
+因此  我们可以从方程式的两侧都消去密度压能项
+
+Now, there might be water coming out of the spout,
+现在  可能有水从喷口流出
+
+but the top of the barrel has a much bigger area.
+但是桶顶部面积很大
+
+So the water at the top of the barrel isn’t going to be moving very much.
+因此  桶顶部的水不怎么流动
+
+In fact, we can say that its velocity is basically zero.
+事实上  我们可以说其速度基本上为零
+
+Which means that
+这意味着
+
+for the water at the top of the barrel is zero.
+桶顶部水的密度动能是零
+
+Finally, we can cross out the density in each term of the equation,
+最后  我们可以在方程的每一项中都划掉密度
+
+since it’s not changing.
+因为它一直没有变
+
+We’re left with a much simpler equation, with only three terms
+我们留下了一个更简单的等式  只有三项
+
+an equation that should look very familiar,
+一个应该看起来很熟悉的方程
+
+if you’ve watched our episodes on the physics of motion.
+如果你看过我们关于运动物理学的那集
+
+It’s a kinematic equation!
+这是一个运动方程式
+
+You already know the two main kinematic equations:
+你已经知道两个主要的运动方程
+
+the definition of acceleration and the displacement curve.
+加速度的定义和位移曲线
+
+And you can rearrange them to get another equation
+你可以重新排列它们以获得另一个方程
+
+that relates displacement, velocity, and acceleration without considering time.
+与移动速度和加速度有关  而不考虑时间
+
+It’s exactly the same equation as the one we just found
+与我们刚发现的方程完全相同
+
+by using Bernoulli’s equation
+通过使用伯努利方程
+
+to describe the velocity of the water coming out of the spout.
+来描述从喷口流出的水的速度
+
+So, Torricelli’s theorem tells you
+所以  托里切利的定理告诉你
+
+that if a droplet of water fell from the same height as the top of the barrel,
+如果一滴水从与桶顶部液面相同的高度落下
+
+when it reached the level of the spout
+当它达到喷口的高度时
+
+it’d have the same velocity as the water coming out of the spout.
+其速度与从喷口流出水的速度相同
+
+Now you know how fast the water’s coming out your rain barrel
+现在你知道水从桶中流出的速度有多大
+
+and how much water you’re putting in your garden over a certain amount of time.
+在一段时间内  你在花园里放了多少水
+
+But you want to try something fun?
+但你想尝试一些有趣的事情吗
+
+Let’s turn the spout on your barrel so it’s pointing up instead of down.
+让我们转动水管的喷口  使其向上而不是向下
+
+If the water from this spout could shoot straight up,
+如果这个喷口的水可以直射
+
+the stream would get exactly as high as the water at the top of the barrel,
+水柱将会与水桶液面同高
+
+before falling down to the ground.
+在落到地面之前
+
+Today, you learned about fluids in motion,
+今天  你了解了运动中的流体
+
+with a focus on the continuity equation,Bernoulli’s equation, and Torricelli’s theorem.
+重点关注连续性方程  伯努利方程和托里切利定理
+
+You also learned that lawn mowers are loud.
+你还了解到割草机噪声很大
+
+
