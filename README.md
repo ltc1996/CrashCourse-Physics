@@ -14,7 +14,7 @@
 ### 分集标题。。（待续）
 
 | 集数 | 集名 | 翻译情况 | 译者 | 字幕开源 |
-|  :---:  | :---: | :---: | :---: |  --- |
+|  :---:  | :---: | :---: | :---: |  :---: |
 |   0 | [预告](https://www.bilibili.com/video/av3888070)                      | √ | [白花恋诗·彩](https://space.bilibili.com/1950746) | × |
 |   1 | [直线运动](https://www.bilibili.com/video/av4281373)                  | √ | [白花恋诗·彩](https://space.bilibili.com/1950746) | × |
 |   2 | [导数](https://www.bilibili.com/video/av4398097)                      | √ | [白花恋诗·彩](https://space.bilibili.com/1950746) | × |
